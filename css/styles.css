@@ -77,11 +77,11 @@ a:hover{
 }
 
 .mobile-img{
-  margin-right: 40px;
+  margin-right: 20px;
   width: 25%;
   border: auto;
   float:left;
-  margin-left:110px;
+  margin-left:130px;
 }
 
 .web-img{
@@ -110,7 +110,7 @@ a:hover{
 }
 
 .skills{
-  padding: 20px;
+  padding: 30px;
 }
 .contact-me{
     padding: 20px;
